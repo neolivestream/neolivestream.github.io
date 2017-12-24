@@ -5,18 +5,23 @@
  add logo as background of column?
  */
 
-.margin-top-one {
-  margin-top: 1rem;
-}
-
-.margin-top-three {
-  margin-top: 4rem;
+.margin-top {
+  margin-top: 25%;
 }
 
 .empty {
   height: 1em;
 }
 
-.coming-soon {
+.bold {
+  font-weight: bold;
+}
+
+.centered {
+  text-align: center;
+}
+
+#coming-soon {
+  margin-top: 2rem;
   color: #36ba00;
 }
