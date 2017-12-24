@@ -1,0 +1,22 @@
+/**
+ TODO
+ button colors (evtl. size)
+ font change
+ add logo as background of column?
+ */
+
+.margin-top-one {
+  margin-top: 1rem;
+}
+
+.margin-top-three {
+  margin-top: 4rem;
+}
+
+.empty {
+  height: 1em;
+}
+
+.coming-soon {
+  color: #36ba00;
+}
